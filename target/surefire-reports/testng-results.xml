@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="22370" started-at="2020-05-23T18:40:37 EDT" finished-at="2020-05-23T18:41:00 EDT">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="22370" started-at="2020-05-23T18:40:37 EDT" finished-at="2020-05-23T18:41:00 EDT">
+      <class name="greencart.aminTest">
+        <test-method status="PASS" signature="ini()[pri:0, instance:greencart.aminTest@4b952a2d]" name="ini" is-config="true" duration-ms="10618" started-at="2020-05-23T18:40:37 EDT" finished-at="2020-05-23T18:40:48 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ini -->
+        <test-method status="PASS" signature="run()[pri:0, instance:greencart.aminTest@4b952a2d]" name="run" duration-ms="11632" started-at="2020-05-23T18:40:48 EDT" finished-at="2020-05-23T18:41:00 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- run -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:greencart.aminTest@4b952a2d]" name="teardown" is-config="true" duration-ms="82" started-at="2020-05-23T18:41:00 EDT" finished-at="2020-05-23T18:41:00 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- greencart.aminTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
